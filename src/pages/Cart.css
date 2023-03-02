@@ -1,0 +1,10 @@
+h1 {
+  text-align: center;
+}
+.cart {
+  margin: 30px auto;
+  max-width: 1200px;
+}
+.cartItems {
+  margin: 30px auto;
+}
